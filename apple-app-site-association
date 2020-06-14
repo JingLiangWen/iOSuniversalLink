@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "TN462CL4LQ.com.dms.nissan.e3s.mgr",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
